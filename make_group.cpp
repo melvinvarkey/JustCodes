@@ -1,3 +1,9 @@
+//----------------------------------------------------
+// Name    : Create Random Project Groups
+// Coding  : Sreesh K, Melvin V 
+// License : GNU open licence
+//----------------------------------------------------
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
